@@ -1,0 +1,229 @@
+[
+  {
+    "date": "2025-11-03",
+    "ticker": "AAPL",
+    "action": "SELL",
+    "price": 200,
+    "note": "Price increased from 182.5 to 200"
+  },
+  {
+    "date": "2025-11-03",
+    "ticker": "MSFT",
+    "action": "SELL",
+    "price": 410.0,
+    "note": "Price increased from 405.0 to 410.0"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "AUTX",
+    "action": "BUY",
+    "price": null,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": null,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "HOMR",
+    "action": "BUY",
+    "price": null,
+    "note": "AI recommendation: BUY 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "MEDC",
+    "action": "SELL",
+    "price": null,
+    "note": "AI recommendation: SELL 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "AUTX",
+    "action": "STAY",
+    "price": null,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "EVGO",
+    "action": "STAY",
+    "price": null,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "HOMR",
+    "action": "STAY",
+    "price": null,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "MEDC",
+    "action": "STAY",
+    "price": null,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "AUTX",
+    "action": "BUY",
+    "price": null,
+    "note": "AI recommendation: BUY 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": null,
+    "note": "AI recommendation: BUY 4 shares",
+    "quantity": 4
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "HOMR",
+    "action": "STAY",
+    "price": null,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "MEDC",
+    "action": "SELL",
+    "price": null,
+    "note": "AI recommendation: SELL 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "AUTX",
+    "action": "STAY",
+    "price": 141.71,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": 177.67,
+    "note": "AI recommendation: BUY 3 shares",
+    "quantity": 3
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "HOMR",
+    "action": "STAY",
+    "price": 78.42,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-21",
+    "ticker": "MEDC",
+    "action": "STAY",
+    "price": 57.14,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "AUTX",
+    "action": "BUY",
+    "price": 141.71,
+    "note": "AI recommendation: BUY 3 shares",
+    "quantity": 3
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": 177.67,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "HOMR",
+    "action": "BUY",
+    "price": 78.42,
+    "note": "AI recommendation: BUY 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "MEDC",
+    "action": "SELL",
+    "price": 57.14,
+    "note": "AI recommendation: SELL 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "AUTX",
+    "action": "BUY",
+    "price": 141.71,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": 177.67,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "HOMR",
+    "action": "BUY",
+    "price": 78.42,
+    "note": "AI recommendation: BUY 4 shares",
+    "quantity": 4
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "MEDC",
+    "action": "SELL",
+    "price": 57.14,
+    "note": "AI recommendation: SELL 1 shares",
+    "quantity": 1
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "AUTX",
+    "action": "STAY",
+    "price": 141.71,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "EVGO",
+    "action": "BUY",
+    "price": 177.67,
+    "note": "AI recommendation: BUY 2 shares",
+    "quantity": 2
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "HOMR",
+    "action": "STAY",
+    "price": 78.42,
+    "note": "AI recommendation: STAY 0 shares"
+  },
+  {
+    "date": "2025-11-30",
+    "ticker": "MEDC",
+    "action": "STAY",
+    "price": 57.14,
+    "note": "AI recommendation: STAY 0 shares"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "ticker": "AUTX",
+    "quantity": 5.0,
+    "purchase_price": 139.69,
+    "current_price": 141.71,
+    "unrealized_pnl": 10.1
+  },
+  {
+    "ticker": "CASH",
+    "quantity": 748.25,
+    "purchase_price": 1.0,
+    "current_price": 1.0,
+    "unrealized_pnl": 0.0
+  },
+  {
+    "ticker": "EVGO",
+    "quantity": 6.0,
+    "purchase_price": 204.91,
+    "current_price": 177.67,
+    "unrealized_pnl": -163.44
+  },
+  {
+    "ticker": "HOMR",
+    "quantity": 28.0,
+    "purchase_price": 83.11,
+    "current_price": 78.42,
+    "unrealized_pnl": -131.32
+  }
+]
